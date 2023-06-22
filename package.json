@@ -1,0 +1,22 @@
+{
+  "name": "googlegettokenfunc",
+  "version": "1.0.0",
+  "description": "Function on google to get a token barer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jousepalas/googleGetTokenFunc.git"
+  },
+  "author": "JousePalas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jousepalas/googleGetTokenFunc/issues"
+  },
+  "homepage": "https://github.com/jousepalas/googleGetTokenFunc#readme",
+  "dependencies": {
+    "google-auth-library": "^8.8.0"
+  }
+}
